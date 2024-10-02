@@ -1,0 +1,16 @@
+*{
+    margin: 10px;
+    padding: 10px;
+}
+body{
+    background-color: rgb(52, 6, 6);
+    color: rgb(124, 156, 11);
+}
+h1{
+    text-align: center;
+    padding: 10px;
+}
+img{
+    width: 100;
+    height: auto;
+}
